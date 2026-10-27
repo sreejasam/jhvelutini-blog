@@ -1,0 +1,10 @@
+
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.jhvelutini.com/
+
+# Sitemaps
+Sitemap: https://www.jhvelutini.com/sitemap.xml
