@@ -8,6 +8,7 @@ export const metadata = {
     default: "Julio Herrera Velutini — Banker & Financial Leader",
     template: "%s | Julio Herrera Velutini",
   },
+  
 
   description:
     "Profile of Julio Herrera Velutini, international banker and founder of Britannia Financial Group.",
